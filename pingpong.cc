@@ -1,18 +1,7 @@
 /*
-   pingpong(x)의 함수를 작성하라. 예시의 인풋과 아웃풋은 다음과 같다.
-
-   pingpong(8) = 6
-   pingpong(22) = 0
-   pingpong(68) = 2
-   pingpong(100) = 2
-   심화학습
-
-   위 문제에 다음과 같은 제약을 추가하여 다시 풀어보자.
-
-   For Loop 또는 Array를 쓰지 말 것
-   Assignment를 쓰지 말 것, 즉, 변수 할당을 하지 말 것.
-   String을 쓰지 말 것
-   */
+ * 1차 출처: https://brunch.co.kr/@sunghokimnxag/5
+ * 2차 출처: http://codingdojang.com/scode/514
+*/
 
 #include <iostream>
 

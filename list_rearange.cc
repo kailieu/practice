@@ -1,9 +1,7 @@
 /*
- * 다음과 같은 형태의 배열을
- * [a1,a2,a3...,an,b1,b2...bn]
- * 다음과 같은 형태로 추가적인 공간을 사용하지 않고 바꾸시오.
- * [a1,b1,a2,b2.....an,bn]
- * */
+ * 1차 출처: https://www.careercup.com/question?id=7528760
+ * 2차 출처: http://codingdojang.com/scode/416
+ */
 
 #include <iostream>
 
